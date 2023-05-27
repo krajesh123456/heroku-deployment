@@ -1,19 +1,12 @@
-In the last two decades, attempts were made to solve what issues?
-- I'm sorry, I cannot answer that question based on the information provided in this PDF. While the PDF discusses attempts to develop electronic health record systems and personalized virtual patient models for the ageing population, it does not provide a specific timeframe or mention any issues that were attempted to be solved in the last two decades.
+Certainly! Here are revised examples for each type:
 
-What specific computational challenges in health systems made the issues even more complicated?
-- computational challenges in health systems due to which standard Information and Communication Technology (ICT) systems are hard to keep up, include the high variety and complexity of data, and high rate of data change ranging from clinical processes to protocols." These challenges have made it more difficult to develop effective electronic health record systems and personalized virtual patient models for the ageing population.
+Classification Model vs. Inferential Model:
+Suppose you have a dataset of medical records with various patient attributes such as age, blood pressure, cholesterol level, and you want to predict whether a patient has a certain disease (binary outcome). In this case, you might select a classification model, such as logistic regression or support vector machines (SVM), to predict the presence or absence of the disease based on the given features. The focus here is on predicting a specific class or category (disease or no disease) rather than estimating the relationship between variables (which is the aim of inferential models like linear regression).
 
-What are the factors that the effective medical data systems possess?
-- The PDF explains that effective medical data systems should be designed with a good database and schema. This will help the system manage clinical data well, which means it can handle many requests for information, be flexible to changes, and be able to grow as needed.
+Supervised Model vs. Unsupervised Model:
+Imagine you have a dataset of customer purchase history with various attributes such as purchase amount, frequency, and product categories, but you don't have specific labels indicating customer segments. Here, you might choose an unsupervised model like k-means clustering to group similar customers together based on their purchasing behavior. Unsupervised models help discover hidden patterns or segments in the data without the need for predefined labels. Conversely, if you have a labeled dataset with customer segments and want to predict customer lifetime value, you would use a supervised model like random forests or gradient boosting.
 
-What is the disadvantage of the "Node and Path" method (a method that uses the relational model to store BLOBs) for storing open electronic
-health records (OpenEHR)?
-- According to page 3 of the PDF, there is no mention of any disadvantages of the "Node and Path" method for storing open electronic health records (OpenEHR). The PDF only explains that this method is used by numerous archetype-based systems.
+Descriptive Analysis:
+Consider a scenario where you have a dataset containing employee performance ratings for a company. Your goal is to understand the distribution and summary statistics of the performance ratings across different departments. In this case, descriptive analysis techniques such as calculating the mean, median, and standard deviation of the ratings for each department, along with visualizations like bar charts or box plots, would be sufficient. Descriptive analysis helps in summarizing and exploring the characteristics of the data without the need for predictions or inferences.
 
-
-Why was HBase selected for the storage of the data of the project?
-- HBase was chosen for the FrailSafe project because it is a type of database that can handle a lot of data and is good at quickly reading and writing information. It can also be used for very large tables with many rows and columns. This is important for the FrailSafe project because it collects a lot of sensor data in real-time, which means it needs to be able to handle a lot of information quickly.
-
-What is the logic in HBase's table design (column families that have any number of columns)?
-- the table design logic in HBase is as follows: a table is a group of rows, a row is a group of column families, a column family is a group of columns, and a column is a group of key-value pairs. In HBase, only column families are defined by the table schema. A table can consist of multiple column families, each of which can have any number of columns.
+Remember that these examples are for illustrative purposes, and the specific choice of model or analysis technique depends on the nature of the data, the research question, available resources, and desired outcomes.
