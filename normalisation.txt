@@ -109,5 +109,20 @@ Remember, these tools can be used for good or bad purposes. It's important to us
 
 
 
+6) 
+Automated Bots in Cyber Warfare:
+Automated bots are like computer programs that can perform tasks without human intervention. In cyber warfare, these bots can be powerful tools for both attackers and defenders. They can move quickly, follow instructions precisely, and carry out tasks on a large scale, making them effective in various ways.
 
+Effectiveness of Automated Bots:
+Automated bots can be most effective when they are used to:
+
+Speed Up Operations: Bots can quickly scan, analyze, and attack targets at a pace that's impossible for humans. This speed can catch defenders off guard and overwhelm systems.
+
+Scale Up Attacks: Bots can launch attacks on a massive scale, targeting multiple systems simultaneously. This capability can spread chaos and confusion, making it difficult for defenders to respond.
+
+Use Case 1: Distributed Denial of Service (DDoS) Attacks:
+Automated bots are used to flood a target's network or website with a huge amount of traffic, causing it to become slow or crash. In 2016, the Mirai botnet infected thousands of IoT devices, forming a powerful army of bots that launched massive DDoS attacks, disrupting major websites and services.
+
+Use Case 2: Credential Stuffing Attacks:
+Automated bots are used to test thousands of stolen username and password combinations on various websites. In 2019, attackers used bots to perform credential stuffing attacks on Disney+ streaming service. They gained unauthorized access to user accounts and sold them on the black market.
 
