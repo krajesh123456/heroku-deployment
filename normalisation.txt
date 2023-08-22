@@ -1,102 +1,19 @@
-1) Linear regression is a way to find out how two or more things are related to each other. It helps us to predict the value of one thing based on the value of another thing. For example, we can use linear regression to predict how much someone will weigh based on their height. Linear regression is used in many different fields to help us understand how things are related and to make predictions about what might happen in the future.
+Certainly! Text analysis is about understanding and getting useful information from written text. This helps with things like understanding people's opinions, finding specific information, and classifying text into different categories.
 
-a) The study proposes a new way to predict market prices using a model that is better at handling incomplete, imprecise, and ambiguous data. The model groups similar data together and builds a separate prediction model for each group. The study found that this new model is more accurate and efficient than other models. The study concludes that this new model is a good way to predict market prices.
-b) The study created a model to predict short-term PM2.5 levels using different factors like AOD data, weather conditions, and pollutants. They tested the model in Beijing City and found that it worked better when they used data from the spring and winter seasons. They used a technique called the least squares method to find the best line that fits the data points. The study provides a way to monitor PM2.5 levels more effectively and understand where it is distributed.
+In text, there are challenges like words having different meanings or jokes that computers might not get. To deal with a lot of text, researchers sometimes look at a smaller part of it to understand the whole thing better. They also use math to check if their conclusions are trustworthy.
 
-2) Logistic regression is a way to find out how likely something is to happen based on other things. For example, we can use logistic regression to predict how likely someone is to get a disease based on their age, gender, and other factors. It helps us to understand the relationship between different things and to make predictions about what might happen in the future. Logistic regression is used in many different fields to help us understand how likely something is to happen and to make decisions based on that information.
-a) This PDF file is about a study that was done in Iran to find out what factors make people who use drugs start injecting drugs. The study used different methods to analyze the data and find out which factors were most important. The study found that using heroin, cocaine, and hallucinogens were the three most important factors that made people start injecting drugs. The study also found that people who had been to prison or who were unemployed were at higher risk of starting to inject drugs. The study used some complicated methods to analyze the data, but the results are easy to understand.
-b) This PDF file is about a study that was done in a hospital in Ghana to find out how to predict if someone has malaria by looking at their blood. They looked at the blood of 2076 people who were suspected of having malaria and found that 539 of them had it. They also found that children between 5 and 14 years old had the highest chance of getting malaria. The study showed that certain things in the blood, like haemoglobin, white blood cells, platelets, lymphocytes, mixed cell count, and neutrophils, can help predict if someone has malaria. However, the study was limited because they only looked at a small group of people and didn't consider other factors that could affect the results. The study provides useful information for diagnosing and treating malaria, but more research is needed to find better ways to diagnose and treat the disease.
+Before analyzing text, we often make the words simpler. For example, turning "running" into "run" so that similar words are treated the same way. We also split text into individual words or pieces. Then, we change these words into numbers so that computers can understand them better. One way to do this is by counting how often each word appears.
 
+We can use a type of math called logistic regression to sort text into two groups, like "positive" or "negative." We can also measure how good our model is by testing it on new text.
 
-3) When we work with streaming data, we need to have a plan for how to choose and use the data that's coming in. This is called feature management. Before we can do this, we need to know what we're trying to predict with the data. This is called the target variable. 
-There are different techniques we can use to manage different types of data. For example, if we have categories like colors or types of animals, we can turn them into numbers using a technique called one-hot encoding. If we have numbers that are really big or small, we can make them easier to work with by scaling them down or up. If we have text, we can break it down into smaller parts and remove words that don't matter. 
-We can also choose which parts of the data are most important and create new parts that might be useful. This can help us make better predictions with the data. Overall, feature management is important for making sense of streaming data and creating accurate predictions.
+Text analysis is used in many areas:
 
-4) Scalability in machine learning means that the system can handle large amounts of data without slowing down. However, when dealing with large amounts of data, there are some problems that can occur, such as the time it takes to process the data and the cost of storing it. To solve these problems, we can use techniques like breaking up the data and processing it across multiple machines or selecting the most important data to use. Python is a popular language for scaling machine learning systems, and there are libraries like Apache Spark and Dask that can help with processing large amounts of data.
+Feeling Analysis: Figuring out if text expresses positive or negative feelings, which is helpful to understand people's emotions or reviews.
 
-5) 
-Artificial Intelligence (AI): AI means making computers do smart things that typically need human-like thinking, like talking to people or solving problems.
+Search Engines: Making it possible for you to find things when you search online by matching your words with the words in documents.
 
-Machine Learning (ML): ML is when computers learn by looking at examples. They get better at tasks as they see more examples.
+Sorting Text: Putting text into different groups based on what it's about, like news articles or emails.
 
-Deep Learning (DL): DL is a special way computers learn, inspired by how our brains work. They learn by understanding different layers of information.
+Social Media Understanding: Learning from what people say on social media to see what's popular or how they feel about certain things.
 
-Comparison:
-
-What They Do:
-
-AI makes computers smart like humans.
-ML helps computers learn from examples.
-DL is a smart way for computers to understand complex things.
-How They Work:
-
-AI can use many techniques, not just learning from examples.
-ML uses examples to learn patterns.
-DL learns complex patterns using deep networks.
-Data Dependence:
-
-AI might not always need a lot of examples.
-ML often needs lots of examples to learn well.
-DL does best with lots of examples for tricky tasks.
-Examples:
-
-AI:
-
-Chatbots for Help: AI chatbots talk to people and answer questions on websites.
-Self-Driving Cars: AI helps cars drive without humans.
-ML:
-
-Movie Suggestions: ML suggests movies you might like based on what you watched before.
-Guessing Prices: ML helps guess how much a house should cost based on past prices.
-DL:
-
-Seeing Photos: DL helps computers tell what's in a photo, like recognizing cats or dogs.
-Translating Languages: DL can change words from one language into another, like in Google Translate.
-
-
-
-
-6) 
-NumPy:
-
-What: NumPy is like a calculator for big numbers and tables. It's good for doing math stuff with data.
-How: You can use it to find averages, do math with lots of numbers, and work with big sets of data.
-Example 1: Finding out the average height of a class using everyone's heights.
-Example 2: Figuring out how much money you've spent each month by adding up all your expenses.
-SciPy:
-
-What: SciPy is like an upgrade to NumPy. It helps with more complicated math and science problems.
-How: It's useful for solving tricky math puzzles and doing science calculations.
-Example 1: Finding the best time to launch a rocket using math equations.
-Example 2: Guessing what the temperature was between two measured points using the temperature data you have.
-Matplotlib:
-
-What: Matplotlib is like a tool to draw pictures of data. It helps you understand numbers better.
-How: You can use it to make graphs and charts to show data in a clear way.
-Example 1: Making a line graph to see how your savings grew over a year.
-Example 2: Drawing a scatter plot to see if there's a connection between hours of study and exam scores.
-Pandas:
-
-What: Pandas is like a helper for dealing with big lists of numbers and words. It's like a data organizer.
-How: You can use it to sort, filter, and arrange data to make it easier to work with.
-Example 1: Putting all your friends' names and ages in order to find the oldest one.
-Example 2: Making a list of books you read and checking how many were from your favorite author.
-Scikit-learn:
-
-What: Scikit-learn helps computers learn from data. It's like a tutor for computers.
-How: You can use it to make computers guess things based on examples you give it.
-Example 1: Teaching a computer to recognize if an animal in a picture is a cat or a dog.
-Example 2: Helping a computer learn which movies you might like based on the ones you've seen.
-
-
-7)
-Python List:
-
-A basic way to make lists in Python to keep things in order.
-Can have different things in one list, like numbers and words.
-Can't easily do math with all the things in the list together.
-NumPy Array:
-
-A special tool in NumPy library for doing math with lots of numbers.
-All things in the array need to be the same kind, like all numbers.
-Can do math with all the numbers in the array quickly.
+Keep in mind that things might have changed since I last learned about them in 2021, so it's a good idea to look up more recent information for the latest updates.
