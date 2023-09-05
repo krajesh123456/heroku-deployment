@@ -48,3 +48,31 @@ When to Use: Stacked bar charts show parts of a whole. Use them when you want to
 
 4.8. Pie Charts
 When to Use: Pie charts show parts of a whole too. Use them when you want to see the proportion of each part in a total, like what makes up your monthly expenses.
+
+5. Real-Life Examples
+Let's look at some real-life examples of how these pictures are used:
+
+5.1. Scatter Plots in Action
+Imagine a healthcare company using scatter plots to show how exercise habits relate to health outcomes. They can easily see if people who exercise more tend to have better health.
+
+5.2. Bar Charts in Real Life
+A retail company might use bar charts to compare sales of different products across multiple stores. It helps them quickly see which products are selling well in which locations.
+
+5.3. Histograms in the Wild
+A social media platform can use histograms to understand how often users post. They can see if most users are active daily, weekly, or rarely.
+
+5.4. Line Graphs in the Real World
+An e-commerce company might use line graphs to track website traffic over time. It shows them when they get the most visitors and when they need to improve.
+
+5.5. Box Plots in Action
+A finance company may use box plots to check if employee salaries are fair. If there are outliers, it could mean some people are paid significantly more or less than others.
+
+5.6. Sentiment Models in Everyday Life
+Social media platforms use sentiment models to understand how people feel about posts. They can tell if a post is making people happy, sad, or angry.
+
+5.7. Stacked Bar Charts in Practice
+A nonprofit organization can use stacked bar charts to show how their donations are spent. It gives donors a clear picture of where their money goes, like how much goes to programs, administration, or fundraising.
+
+5.8. Pie Charts in the Real World
+Imagine a restaurant using a pie chart to display their menu's composition. It helps customers see the proportion of different types of dishes, like how much is seafood, vegetarian, or meat-based.
+
