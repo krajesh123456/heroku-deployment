@@ -1,298 +1,50 @@
-1) Using the provided IN404_Reviews.csv and IN404_Unit4.py files, complete the programming where you see ################# YOUR CODE HERE ########################.
-/Users/rajesh/PycharmProjects/pythonProject/venv/bin/python /Users/rajesh/PycharmProjects/pythonProject/Program_Unit4_1.py 
-Number of star ratings
-(Star
-5    138
-4     95
-3     53
-2     44
-1     33
-Name: count, dtype: int64,)
+1. Introduction
+We're in a world full of numbers and complex data, especially in the world of fancy machine learning. How do you make sense of it all? The answer is simple: use pictures! This report will explain how using pictures to show machine learning results can help top executives like you understand what's going on.
 
-Top rows of training set
-()
+2. Why Pictures Matter
+2.1. Pictures Make Data Easier
+Pictures are like shortcuts for understanding complicated data. Instead of staring at a bunch of numbers, you can look at a picture and instantly get what's happening.
 
-600                                                                                                                                                                                                                                                                                                                                                                                                                                        I've used this a lot and love it. So quick and easy to send updates to the doc!
-451                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Helps me and my Doctor track what may be wrong
-926                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    It was fun it helped me and my kids
-617    EDIT 10/3/15: Since the last update its reset a lot of stuff & it added categories I'd deleted, but it now says "cannot be altered" & cannot be deleted! -- This is the best mood tracker I have seen, it just needs to be able to let you enter data more than just once per day, and hourly graphs would make it perfect. Also the ability to send results by email for safe keeping. I had questions about the app, but there is only 1 page on a site for it and no one you can contact with questions. That...
-384                                                                                                                                                                                                                                                                                                             This is my favorite mood tracking app, my only problem is that I can't seem to find a way to write down notes, I see that there is a place on the graph to view them but I can't find where to write them.
-Name: Review_Text, dtype: object
-()
+2.2. Spotting Patterns
+Pictures help you see patterns and trends that might be hidden in numbers. It's like a map that shows you the way through a data jungle.
 
-Top rows of testing set
-()
+2.3. Better Decision-Making
+When you see data as pictures, you can make better decisions because you see the big picture clearly. It's like having a guide instead of wandering in the dark.
 
-767                                                                                                                                                                                                                                           Like a few others, I've experienced the app crashes whenever I try to view my graph. I've reported the bug and messaged the developers, and heard nothing. Once that's fixed, this will go back to 5.
-846                                                                                                                                                                                                                                                                                                                                                                                                     Please fix this. It's been over two months.
-316                                                                                                                                                                                                                                                                                          I just downloaded the app to my phone & im learning how it works. I like it so far. Could be easier to use, but as I said, im learning how to work it.
-476                                                                                                                                                                                                                                                                                                                                                                                                                             Doesn't work at all
-576    Problem med att pÇminnelserna slutar fungera med ganska j_mna mellanrum (ca en vecka funkar det sen fÇr man gÇ in och ta bort och g_ra om inst_llningarna). Annars n_jd, anv_nder tre av de kategorier som finns. Hade g_rna sett en f_r fysiskt mÇende dÇ jag lider av halsbr_nna och illamÇende mm som vore sk_nt att se f_r_ndring i _ver tid, men det _r okej. Hoppas de fixar buggen g_llande pÇminnelserna snart!
-Name: Review_Text, dtype: object
-()
+2.4. Making Things Simple
+Complicated data can give anyone a headache. Pictures simplify things, making it easier for you to understand what's going on.
 
-Print best_worst reviews data set dimensions
-()
+2.5. Talking to Everyone
+Not everyone speaks the language of numbers. Pictures are universal – they help you explain complex data to everyone, even if they're not data experts.
 
-(171, 9)
-()
+3. Good and Bad Pictures
+3.1. Good Pictures
+Good pictures are clear, relevant, accurate, interactive, and look good. They help you understand things quickly.
 
-Print best_worst reviews data set dimensions
-()
+3.2. Bad Pictures
+Bad pictures are messy, misleading, lack context, are too complicated, or just not suitable for the job. They can confuse you instead of helping.
 
-(171, 10)
-()
+4. Types of Pictures and When to Use Them
+4.1. Scatter Plots
+When to Use: Scatter plots are like dots on a graph. Use them when you want to see the connection between two things, like how height relates to weight.
 
-Star
-5    138
-1     33
-Name: count, dtype: int64
-()
+4.2. Bar Charts
+When to Use: Bar charts are like tallies for categories. Use them when you want to compare different categories, like sales in different cities.
 
-Training set
-((128, 933),)
+4.3. Histograms
+When to Use: Histograms are for showing how things are spread out. Use them when you want to see how common or rare something is, like how many people are of different heights.
 
-Testing set
-((43, 933),)
+4.4. Line Graphs
+When to Use: Line graphs show changes over time. Use them when you want to see how something has changed over the years, like company profits.
 
-Default count vectorizer on reduced data set
-(0.9302325581395349,)
+4.5. Box Plots
+When to Use: Box plots show how data is spread. Use them when you want to know if your data has weird values (outliers) or not, like salaries in a company.
 
-Training set
-((128, 933),)
+4.6. Sentiment Models
+When to Use: Sentiment models help understand feelings in text. Use them when you want to know if people are happy or sad about something based on what they write.
 
-Testing set
-((43, 933),)
+4.7. Stacked Bar Charts
+When to Use: Stacked bar charts show parts of a whole. Use them when you want to see how different categories make up a total, like expenses in a budget.
 
-Default count vectorizer on No LowerCase data set
-(0.9302325581395349,)
-
-Training set
-((128, 933),)
-
-Testing set
-((43, 933),)
-
-Default count vectorizer on Ngram data set
-(0.9302325581395349,)
-
-Null model accuracy - line 376
-(0.8604651162790697,)
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-()
-
-Ngram 1-3 model
-()
-
-Dimensions: 
-(8276,)
-
-Accuracy: 
-(0.8129411764705882,)
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-()
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-()
-
-Ngram 1-3 model, removing stop words 
-()
-
-Dimensions: 
-(4587,)
-
-Accuracy: 
-(0.8010084033613445,)
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-()
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-()
-
-250 features, removing stop words 
-()
-
-Dimensions: 
-(250,)
-
-Accuracy: 
-(0.8188235294117646,)
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-()
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-()
-
-Ngram, 250 features, removing stop words 
-()
-
-Dimensions: 
-(250,)
-
-Accuracy: 
-(0.8421848739495799,)
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-()
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-()
-
-Ngram, 250 features, removing stop words 
-()
-
-Dimensions: 
-(185,)
-
-Accuracy: 
-(0.8421848739495799,)
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-()
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-()
-
-Default TF-IDF
-()
-
-Dimensions: 
-(1108,)
-
-Accuracy: 
-(0.8070588235294117,)
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-()
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-()
-
-TF-IDF with english stop words removed
-()
-
-Dimensions: 
-(926,)
-
-Accuracy: 
-(0.8070588235294117,)
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-()
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-()
-
-TF-IDF with 1-3 ngrams
-()
-
-Dimensions: 
-(8276,)
-
-Accuracy: 
-(0.8070588235294117,)
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-()
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-()
-
-TF-IDF with 1-2 ngrams
-()
-
-Dimensions: 
-(4420,)
-
-Accuracy: 
-(0.8070588235294117,)
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-()
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-()
-
-TF-IDF with words appearing at least 3 times
-()
-
-Dimensions: 
-(274,)
-
-Accuracy: 
-(0.8070588235294117,)
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-()
-
-Dimensions of the training set: (128, 879)
-Dimensions of the testing set: (43, 879)
-Accuracy: 0.8604651162790697
-
-Process finished with exit code 0
-
-
-
-2) List the accuracy score for all that you received in item 1. There are 15 total.
-Default count vectorizer on reduced data set : 0.9302325581395349
-Default count vectorizer on No LowerCase data set : 0.9302325581395349
-Default count vectorizer on Ngram data set : 0.9302325581395349
-Null model accuracy : 0.8604651162790697
-Ngram 1-3 model : 0.8129411764705882
-Ngram 1-2 model, removing stop words  : 0.8010084033613445
-250 features, removing stop words  : 0.8188235294117646
-Ngram, 250 features, removing stop words  : 0.8421848739495799
-Ngram, 250 features, removing stop words : 0.8421848739495799
-Default TF-IDF :0.8070588235294117
-TF-IDF with english stop words removed : 0.8070588235294117
-TF-IDF with 1-3 ngrams : 0.8070588235294117
-TF-IDF with 1-2 ngrams: 0.8070588235294117
-TF-IDF with words appearing at least 3 times : 0.8070588235294117
-Final logistic : 0.8604651162790697
-
-
-3) Describe which accuracy scores, if any, beat the null model.
-    a) Which was the best model?
-      Default count Vectorizer 
-    b) Which two tied as the second best model?
-      Default count vectorizer on Ngram data set
-    c) What do these results tell you?
-      In some text classification tasks, especially when the text data is not very complex or doesn't contain important sequential information, simple word-level features may be sufficient. If unigrams are achieving higher accuracy, it suggests that the predictive information for the given task is primarily at the word level rather than in the co-occurrence of words or phrases.
-
-
-4) Compare the two tokenization models:
-vect = CountVectorizer(ngram_range=(1, 3))
-testVector("Ngram 1-3 model", vect)
-
-vect = CountVectorizer(ngram_range=(1, 2))
-testVector("Ngram 1-2 model", vect)
-  a) Which model had the better accuracy score?
-    Ngram 1-3 model has better accuracy .
-  b) Why do you think they scored differently?
-    It suggests that the inclusion of trigrams is providing additional useful information for the specific text classification task. 
-    
-
-5) Compare, and contrast, the train/test split and 5-fold cross validation process used in the testVector function from the code in item 1. Show how each was done in the code and which you would expect better results from.
-Train/test split is a technique where the dataset is divided into two parts: one for training the model and one for testing its performance.
-Cross-validation is a technique where the dataset is divided into multiple subsets or "folds." In 5-fold cross-validation, the data is split into five equal parts (folds), and the model is trained and tested five times. Each time, a different fold is used as the test set, and the remaining folds are used for training.
-
-R6) esearch the CountVectorizer function used. What do the flags of ngram_range, stop_words, max_df, min_df, and max_features do?
-ngram_range: This flag specifies the range of N-grams (contiguous sequences of N words) to consider when extracting features from the text.
-stop_words: This flag allows you to specify a list of words to be treated as stop words and ignored during the tokenization process.
-max_df:This flag controls the maximum document frequency of a word (or N-gram) in the corpus. It can be specified as an absolute count or a percentage of documents.
-min_df: This flag controls the minimum document frequency of a word (or N-gram) in the corpus. It can be specified as an absolute count or a percentage of documents.
-max_features: This flag limits the number of features (unique words or N-grams) to be extracted and included in the resulting matrix.
-
-7) Compare, and contrast, count vectorization and term frequency – inverse document frequency (TF-IDF). Be sure to include:
-  a) When would you use each?
-Count Vectorization: Use it when you want to count how many times each word or phrase appears in a document.
-TF-IDF (Term Frequency-Inverse Document Frequency): Use it when you want to find important words in documents by considering how often they appear in one document compared to all documents.
-  b) Which gave the better accuracy results?
-Count Vectorization:
-  c) Why?
-If the language used in your text data is straightforward with limited variation in terms of word usage and context, TF-IDF's ability to capture nuances may not provide a substantial advantage. Count Vectorization, with its simplicity, can be sufficient for such tasks.
-
+4.8. Pie Charts
+When to Use: Pie charts show parts of a whole too. Use them when you want to see the proportion of each part in a total, like what makes up your monthly expenses.
