@@ -1,78 +1,10 @@
-1. Introduction
-We're in a world full of numbers and complex data, especially in the world of fancy machine learning. How do you make sense of it all? The answer is simple: use pictures! This report will explain how using pictures to show machine learning results can help top executives like you understand what's going on.
+Me - Kumar Rajesh
+My Sisters - Mumpy Kumary (elder) , Kashis Raj (younger)
+Father - Bharat lal Bhagat
+Mother - Rita Devi
 
-2. Why Pictures Matter
-2.1. Pictures Make Data Easier
-Pictures are like shortcuts for understanding complicated data. Instead of staring at a bunch of numbers, you can look at a picture and instantly get what's happening.
+Wife - Sharveya Jaiswal
+Father-inlaw - Harkesh Jaiswal
+Monther-inlaw - Vandana Jaiswal
 
-2.2. Spotting Patterns
-Pictures help you see patterns and trends that might be hidden in numbers. It's like a map that shows you the way through a data jungle.
-
-2.3. Better Decision-Making
-When you see data as pictures, you can make better decisions because you see the big picture clearly. It's like having a guide instead of wandering in the dark.
-
-2.4. Making Things Simple
-Complicated data can give anyone a headache. Pictures simplify things, making it easier for you to understand what's going on.
-
-2.5. Talking to Everyone
-Not everyone speaks the language of numbers. Pictures are universal – they help you explain complex data to everyone, even if they're not data experts.
-
-3. Good and Bad Pictures
-3.1. Good Pictures
-Good pictures are clear, relevant, accurate, interactive, and look good. They help you understand things quickly.
-
-3.2. Bad Pictures
-Bad pictures are messy, misleading, lack context, are too complicated, or just not suitable for the job. They can confuse you instead of helping.
-
-4. Types of Pictures and When to Use Them
-4.1. Scatter Plots
-When to Use: Scatter plots are like dots on a graph. Use them when you want to see the connection between two things, like how height relates to weight.
-
-4.2. Bar Charts
-When to Use: Bar charts are like tallies for categories. Use them when you want to compare different categories, like sales in different cities.
-
-4.3. Histograms
-When to Use: Histograms are for showing how things are spread out. Use them when you want to see how common or rare something is, like how many people are of different heights.
-
-4.4. Line Graphs
-When to Use: Line graphs show changes over time. Use them when you want to see how something has changed over the years, like company profits.
-
-4.5. Box Plots
-When to Use: Box plots show how data is spread. Use them when you want to know if your data has weird values (outliers) or not, like salaries in a company.
-
-4.6. Sentiment Models
-When to Use: Sentiment models help understand feelings in text. Use them when you want to know if people are happy or sad about something based on what they write.
-
-4.7. Stacked Bar Charts
-When to Use: Stacked bar charts show parts of a whole. Use them when you want to see how different categories make up a total, like expenses in a budget.
-
-4.8. Pie Charts
-When to Use: Pie charts show parts of a whole too. Use them when you want to see the proportion of each part in a total, like what makes up your monthly expenses.
-
-5. Real-Life Examples
-Let's look at some real-life examples of how these pictures are used:
-
-5.1. Scatter Plots in Action
-Imagine a healthcare company using scatter plots to show how exercise habits relate to health outcomes. They can easily see if people who exercise more tend to have better health.
-
-5.2. Bar Charts in Real Life
-A retail company might use bar charts to compare sales of different products across multiple stores. It helps them quickly see which products are selling well in which locations.
-
-5.3. Histograms in the Wild
-A social media platform can use histograms to understand how often users post. They can see if most users are active daily, weekly, or rarely.
-
-5.4. Line Graphs in the Real World
-An e-commerce company might use line graphs to track website traffic over time. It shows them when they get the most visitors and when they need to improve.
-
-5.5. Box Plots in Action
-A finance company may use box plots to check if employee salaries are fair. If there are outliers, it could mean some people are paid significantly more or less than others.
-
-5.6. Sentiment Models in Everyday Life
-Social media platforms use sentiment models to understand how people feel about posts. They can tell if a post is making people happy, sad, or angry.
-
-5.7. Stacked Bar Charts in Practice
-A nonprofit organization can use stacked bar charts to show how their donations are spent. It gives donors a clear picture of where their money goes, like how much goes to programs, administration, or fundraising.
-
-5.8. Pie Charts in the Real World
-Imagine a restaurant using a pie chart to display their menu's composition. It helps customers see the proportion of different types of dishes, like how much is seafood, vegetarian, or meat-based.
-
+Our meeting was arranged through online marriage website (samajbandhu.com) . We first met in Delhi at MyWife's cousin's place in September 2017 . It was family meeting together from both the sides and we had normal conversations discussing each others background .
